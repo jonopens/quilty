@@ -9,7 +9,7 @@ const plugins = [
     template: path.resolve(__dirname, "public", "index.html"),
   }),
   new MiniCssExtractPlugin({
-    filename: "./src/yourfile.css",
+    filename: "./src/quilty.css",
   }),
 ];
 
