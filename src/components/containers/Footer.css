@@ -1,6 +1,7 @@
-.work-area {
+.footer {
   display: flex;
   flex-direction: row;
   align-items: center;
-  height: 70vh;
+  justify-content: center;
+  height: 13vh;
 }

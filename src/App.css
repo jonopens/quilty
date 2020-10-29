@@ -1,6 +1,14 @@
+body {
+  margin: 0;
+}
+
 #main {
   display: flex;
-  margin: auto;
-  width: 1080px;
   justify-content: center;
+  margin: auto;
+  width: 90vw;
+  height: 99.8vh;
+  border: 1px dashed gray; /* REMOVE ME LATER */
+  font-family: monospace;
+  font-size: 16px;
 }
