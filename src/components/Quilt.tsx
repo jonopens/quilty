@@ -1,8 +1,9 @@
 import React from 'react';
+import './Quilt.css';
 
 const Quilt = () => {
   return (
-    <div>
+    <div className="quilt">
       QUILT
     </div>
   );

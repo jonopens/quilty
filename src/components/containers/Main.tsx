@@ -1,14 +1,14 @@
 import React from 'react';
 import TopControls from '../menus/TopControls';
-import ToolPanel from '../menus/ToolPanel';
-import Quilt from './Quilt';
+import WorkArea from '../containers/WorkArea';
+
+import './Main.css';
 
 const Main = () => {
   return (
-    <div>
+    <div className="main-container">
       <TopControls />
-      <ToolPanel />
-      <Quilt />
+      <WorkArea />
     </div>
   );
 };

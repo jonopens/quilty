@@ -1,8 +1,11 @@
 import React, { Component } from 'react';
+import './TopControls.css';
 
 const TopControls = () => {
   return (
-    <div>TOP CONTROLS</div>
+    <div className="top-controls">
+      TOP CONTROLS
+    </div>
   );
 };
 

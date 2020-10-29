@@ -1,3 +1,6 @@
 #main {
-  text-align: center;
+  display: flex;
+  margin: auto;
+  width: 1080px;
+  justify-content: center;
 }

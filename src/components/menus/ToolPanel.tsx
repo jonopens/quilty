@@ -1,8 +1,11 @@
 import React from 'react';
+import './ToolPanel.css';
 
 const ToolPanel = () => {
   return (
-    <div>TOOL PANEL</div>
+    <div className="tool-panel">
+      TOOL PANEL
+    </div>
   );
 };
 
