@@ -8,7 +8,6 @@ body {
   margin: auto;
   width: 90vw;
   height: 99.8vh;
-  border: 1px dashed gray; /* REMOVE ME LATER */
   font-family: monospace;
   font-size: 16px;
 }

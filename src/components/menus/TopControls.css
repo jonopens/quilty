@@ -1,8 +1,0 @@
-.top-controls {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  height: 17vh;
-  border: 1px solid red; /* REMOVE ME LATER */
-}

@@ -1,5 +1,4 @@
 .main-container {
   display: flex;
-  width: 99.5%;
   flex-direction: column;
 }

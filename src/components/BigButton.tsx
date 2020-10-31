@@ -2,7 +2,9 @@ import React from 'react';
 
 const BigButton = () => {
   return (
-    <span>BIG BUTTON</span>
+    <div className="big-button">
+      BIG BUTTON
+    </div>
   );
 };
 

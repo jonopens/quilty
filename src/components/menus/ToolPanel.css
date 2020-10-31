@@ -1,7 +1,8 @@
 .tool-panel {
   display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
-  width: 15vw;
-  height: 100%;
+  height: 17vh;
+  border: 1px solid red; /* REMOVE ME LATER */
 }

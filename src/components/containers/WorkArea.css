@@ -3,4 +3,5 @@
   flex-direction: row;
   align-items: center;
   height: 70vh;
+  border: 1px dashed gray;
 }

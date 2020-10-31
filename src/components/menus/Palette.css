@@ -1,0 +1,8 @@
+.palette {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15vw;
+  height: 100%;
+  border: 1px dashed purple;
+}
