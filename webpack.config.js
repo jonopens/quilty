@@ -17,8 +17,15 @@ module.exports = {
   entry: "./src/index.tsx",
   target: "web",
   mode: "development",
+  devServer: {
+    contentBase: path.join(__dirname, 'dist'),
+    compress: true,
+    port: 8008,
+  },
+  devtool: 'source-map',
   output: {
-    filename: "bundle.js",
+    filename: '[contenthash].bundle.js',
+    chunkFilename: '[contenthash].bundle.js',
     path: path.resolve(__dirname, "dist"),
   },
   resolve: {
