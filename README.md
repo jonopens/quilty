@@ -4,7 +4,7 @@ I'm working towards a basic app for my wife so she can plan quilts she wants to 
 
 ## Planned Initial Features
 - Ability to display/hide dimension of panels
-- Ability to add and resize a order
+- Ability to add and resize borders/sashing
 - Ability to create individual blocks for reuse (store locally)
 - Blocks
 -- Simple square shape
